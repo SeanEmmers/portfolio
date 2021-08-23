@@ -50,9 +50,9 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - I took on the resposibility to be left alone for over a week at a time as the only person on the property, using my initiative to find solutions to problems <br/>
+            - I took on the responsibility to be left alone for over a week at a time as the only person on the property, using my initiative to find solutions to problems <br/>
             - Able to get along with people in a small area for a long period of time <br/>
-            - This work was an amazing opportunity to learn about myself and to have to privilidge to live inside an Indiginous community in a remote area of Australia, it is an experience I will never forget
+            - This work was an amazing opportunity to learn about myself and to have to privilege to live inside an Indiginous community in a remote area of Australia, it is an experience I will never forget
           </ListParagraph>
         </ListContainer>
       </ListItem>
