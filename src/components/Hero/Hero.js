@@ -11,7 +11,7 @@ const Hero = () => (
         Sean Phillips' Portfolio
       </SectionTitle>
       <SectionText>
-        An aspiring Software Developer and former student of the Makers Acedemy in London. Here you can find key infomation about my skills, experiences and projects.
+        An aspiring Software Developer and former student of the Makers Academy in London. Here you can find key infomation about my skills, experiences and projects.
       </SectionText>
       <Button onClick = {() => window.location = 'https://github.com/SeanEmmers'}>GitHub</Button>
     </LeftSection>

@@ -14,6 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['Ruby', 'Rails', 'Bulma', 'PostgreSQL'],
     source: 'https://github.com/SeanEmmers/acebook-rails-soda',
+    visit: 'https://github.com/SeanEmmers/acebook-rails-soda',
     id: 1,
   },
   {
@@ -22,6 +23,7 @@ export const projects = [
       image: '/images/3.png',
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/SeanEmmers/notes_app',
+    visit: 'https://github.com/SeanEmmers/notes_app',
     id: 2,
   },
   {
@@ -30,6 +32,7 @@ export const projects = [
     image: '/images/4.png',
     tags: ['Ruby', 'Sinatra', 'PostgreSQL'],
     source: 'https://github.com/SeanEmmers/dogbnb',
+    visit: 'https://github.com/SeanEmmers/dogbnb',
     id: 3,
   },
 ];

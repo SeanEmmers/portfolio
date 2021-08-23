@@ -10,7 +10,7 @@ const AboutMe = () => {
       <SectionDivider /><br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Having recently finished Makers Acedemy I am now looking to continue learning and building projects to become a Software Developer. Some of my interests include, Bouldering, Travelling, Gigs, Cooking, Gaming and of course Programming!
+        Having recently finished Makers Academy I am now looking to continue learning and building projects to become a Software Developer. Some of my interests include, Bouldering, Travelling, Gigs, Cooking, Gaming and of course Programming!
       </SectionText>
       <SectionTitle>Work Experience</SectionTitle>
       <List>
@@ -37,7 +37,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - Delivering designer hire furniture for high profile private and corperate events, Melbourne Open, Formula 1 and The Presidents Cup <br/>
+            - Delivering designer hire furniture for high profile private and corporate events, Melbourne Open, Formula 1 and The Presidents Cup <br/>
             - Leading small teams on site during the end of my tenure at Place Settings, having the solve complex issues quickly and to the satisfaction of the client <br/>
             - Maintaining a professional attitude while working discreetly and quickly in busy environments
           </ListParagraph>
