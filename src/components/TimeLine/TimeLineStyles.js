@@ -64,6 +64,27 @@ export const CarouselItem = styled.div`
   }
 `
 
+export const ListTitle = styled.h4`
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 8px;
+
+@media ${props => props.theme.breakpoints.md}{
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@media ${props => props.theme.breakpoints.sm}{
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.02em;
+  margin-bottom: 4px;
+}
+`
+
 export const CarouselItemTitle = styled.h4`
   font-weight: bold;
   font-size: 24px;
