@@ -10,7 +10,7 @@ const AboutMe = () => {
       <SectionDivider /><br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Having recently finished Makers Acedemy I am now looking to continue learning and building projects to become a Software Developer. Some of my interests include, Bouldering, Traveling, Gigs, Cooking, Gaming and of course Programming!
+        Having recently finished Makers Acedemy I am now looking to continue learning and building projects to become a Software Developer. Some of my interests include, Bouldering, Travelling, Gigs, Cooking, Gaming and of course Programming!
       </SectionText>
       <SectionTitle>Work Experience</SectionTitle>
       <List>
@@ -24,7 +24,8 @@ const AboutMe = () => {
             <br/>
             - Working during the UK lockdown to help with the refubishment of the company office <br/>
             - Assisting with the rental of the previous office building <br/>
-            - Turing the previous office into a beautiful shopfront for a Bridal buissness in the center of Bath
+            - Turning the previous office into a beautiful shopfront for a Bridal buissness in the center of Bath<br/>
+            - Helping out with logistical challenges when the warehouse was going through a busy period<br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -50,7 +51,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - Trusted to be left alone for over a week at a time as the only person on the property, using my initiative to find solutions to problems <br/>
+            - I took on the resposibility to be left alone for over a week at a time as the only person on the property, using my initiative to find solutions to problems <br/>
             - Able to get along with people in a small area for a long period of time <br/>
             - This work was an amazing opportunity to learn about myself and to have to privilidge to live inside an Indiginous community in a remote area of Australia, it is an experience I will never forget
           </ListParagraph>
