@@ -8,12 +8,12 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br/>
         Sean Phillips' Portfolio
       </SectionTitle>
       <SectionText>
-        I am an aspiring Software Developer and a former student of the Makers Acedemy in London. Here you can find key infomation about my skills, experiences and projects.
+        An aspiring Software Developer and former student of the Makers Acedemy in London. Here you can find key infomation about my skills, experiences and projects.
       </SectionText>
+      <Button onClick = {() => window.location = 'https://github.com/SeanEmmers'}>GitHub</Button>
     </LeftSection>
   </Section>
 );

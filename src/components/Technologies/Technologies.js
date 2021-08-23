@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of Technologies in the web development world. From backend to design.
+      I've worked with a range of Technologies in the web development world.
     </SectionText>
     <List>
       <ListItem>
@@ -19,6 +19,8 @@ const Technologies = () =>  (
           <ListParagraph>
             React.js <br/>
             Ruby On Rails <br/>
+            Bootstrap<br/>
+            Bulma
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,6 +33,7 @@ const Technologies = () =>  (
             Sinatra <br/>
             RSpec Testing Framework<br/>
             Jasmine Testing Framework <br/>
+            React Router<br/>
             Capybara<br/>
           </ListParagraph>
         </ListContainer>

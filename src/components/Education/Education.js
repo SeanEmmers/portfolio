@@ -16,7 +16,7 @@ const Education = () => {
         <ListContainer>
           <ListTitle>Makers Academy <br/> (May 2021 - August 2021)</ListTitle>
           <ListParagraph>
-            A 16 week coding bootcamp<br/>
+            A 16 week intense coding bootcamp in London<br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -10,7 +10,7 @@ const AboutMe = () => {
       <SectionDivider /><br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        A couple of short sentences about who you are as a developer
+        Having recently finished Makers Acedemy I am now looking to continue learning and building projects to become a Software Developer. Some of my interests include, Bouldering, Traveling, Gigs, Cooking, Gaming and of course Programming!
       </SectionText>
       <SectionTitle>Work Experience</SectionTitle>
       <List>
@@ -78,7 +78,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - Working at and constructing stands at large UK trade shows - Autumn & Spring fair (NEC), Harragate Book Fair & London Book Fair <br/>
+            - Working at and constructing stands at large UK trade shows - Autumn & Spring fair (NEC), Harrogate Book Fair & London Book Fair <br/>
             - Providing Assistance with building and restoration projects <br/>
           </ListParagraph>
         </ListContainer>
