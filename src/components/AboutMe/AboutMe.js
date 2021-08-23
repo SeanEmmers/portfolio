@@ -2,12 +2,12 @@ import React from 'react';
 import { ListTitle } from './AboutMeStyles';
 import { List, ListContainer, ListItem, ListParagraph } from '../Technologies/TechnologiesStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { TimeLineData } from '../../constants/constants';
 
 const AboutMe = () => {
 
   return (
     <Section id='about'>
+      <SectionDivider /><br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         A couple of short sentences about who you are as a developer
