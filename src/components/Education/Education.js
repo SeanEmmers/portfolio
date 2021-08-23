@@ -1,5 +1,7 @@
 import React from 'react';
 import { DiFirebase, DiReact } from 'react-icons/di';
+import { FaUniversity, FaSchool } from 'react-icons/fa';
+import { AiOutlineCode } from 'react-icons/ai';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './EducationStyles';
 
@@ -10,7 +12,7 @@ const Education = () => {
       <SectionTitle>Education</SectionTitle>
       <List>
       <ListItem>
-        <DiReact size='3rem' />
+        <AiOutlineCode size='3rem' />
         <ListContainer>
           <ListTitle>Makers Academy <br/> (May 2021 - August 2021)</ListTitle>
           <ListParagraph>
@@ -19,7 +21,7 @@ const Education = () => {
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiReact size='3rem' />
+        <FaUniversity size='3rem' />
         <ListContainer>
           <ListTitle>Brunel University<br/></ListTitle>
           <ListParagraph>
@@ -28,7 +30,7 @@ const Education = () => {
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiReact size='3rem' />
+        <FaSchool size='3rem' />
         <ListContainer>
           <ListTitle>A Levels <br/></ListTitle>
           <ListParagraph>
@@ -40,7 +42,7 @@ const Education = () => {
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiReact size='3rem' />
+        <FaSchool size='3rem' />
         <ListContainer>
           <ListTitle>GCSE's <br/></ListTitle>
           <ListParagraph>

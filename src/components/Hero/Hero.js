@@ -9,10 +9,10 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br/>
-        Sean Phillips Portfolio
+        Sean Phillips' Portfolio
       </SectionTitle>
       <SectionText>
-        In here write a short bio, one or two sentences...
+        I am an aspiring Software Developer and a former student of the Makers Acedemy in London. Here you can find key infomation about my skills, experiences and projects.
       </SectionText>
     </LeftSection>
   </Section>

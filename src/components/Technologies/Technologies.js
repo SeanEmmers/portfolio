@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact } from 'react-icons/di';
+import { DiFirebase, DiReact, DiRubyRough } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -17,8 +17,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br/>
-            React.js
+            React.js <br/>
+            Ruby On Rails <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -27,18 +27,26 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br/>
-            Ruby on Rails
+            PostgreSQL<br/>
+            Sinatra <br/>
+            RSpec Testing Framework<br/>
+            Jasmine Testing Framework <br/>
+            Capybara<br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size='3rem' />
+        <DiRubyRough size='3rem' />
         <ListContainer>
-          <ListTitle>Testing</ListTitle>
+          <ListTitle>Languages</ListTitle>
           <ListParagraph>
-            Experience with <br/>
-            RSpec
+            Ruby <br/>
+            JavaScript <br/>
+            JSX <br/>
+            Python <br/>
+            HTML <br/>
+            CSS <br/>
+            SQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
