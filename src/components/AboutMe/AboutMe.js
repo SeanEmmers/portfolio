@@ -10,7 +10,7 @@ const AboutMe = () => {
       <SectionDivider /><br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Having recently finished Makers Academy I am now looking to continue learning and building projects to become a Software Developer. Some of my interests include, Bouldering, Travelling, Gigs, Cooking, Gaming and of course Programming!
+        In January of this year I made the decision to try and learn to program. I wanted to learn a new skill and see if it was something I could turn into a career. I have always had an interest in computers and tech and was confident I would enjoy programming. Having recently finished Makers Academy I am even more confident that this is the career for me. I have become very passionate about the industry and am incredibly excited to continue my growth within it. Currently I am continuing my learning and building projects to become a Software Developer. Some of my other interests include, Bouldering, Travelling, Gigs, Cooking and Gaming!
       </SectionText>
       <SectionTitle>Work Experience</SectionTitle>
       <List>
@@ -22,9 +22,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - Working during the UK lockdown to help with the refubishment of the company office <br/>
-            - Assisting with the rental of the previous office building <br/>
-            - Turning the previous office into a beautiful shopfront for a Bridal buissness in the center of Bath<br/>
+            - Working during the UK lockdown to help with the refurbishment of the company office <br/>
             - Helping out with logistical challenges when the warehouse was going through a busy period<br/>
           </ListParagraph>
         </ListContainer>
