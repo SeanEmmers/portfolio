@@ -10,7 +10,7 @@ const AboutMe = () => {
       <SectionDivider /><br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        In January of this year I made the decision to try and learn to program. I wanted to learn a new skill and see if it was something I could turn into a career. I have always had an interest in computers and tech and was confident I would enjoy programming. Having recently finished Makers Academy I am even more confident that this is the career for me. I have become very passionate about the industry and am incredibly excited to continue my growth within it. Currently I am continuing my learning and building projects to become a Software Developer. Some of my other interests include, Bouldering, Travelling, Gigs, Cooking and Gaming!
+        In January of this year I made the decision to try and learn to program. I wanted to learn a new skill and see if it was something I could turn into a career. I have always had an interest in computers and tech and was positive I would enjoy programming. Having recently finished Makers Academy I am even more confident that this is the career for me. I have become very passionate about the industry and am incredibly excited to continue my growth within it. Currently I am continuing my learning and building projects to become a Software Developer. Some of my other interests include, Bouldering, Travelling, Gigs, Cooking and Gaming!
       </SectionText>
       <SectionTitle>Work Experience</SectionTitle>
       <List>
@@ -35,6 +35,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
+            - Started off as an Offsider. During my time at Place Settings I took on an increasing amount of resposibility, at the end I was the youngest Team Leader in the company. <br/>
             - Delivering designer hire furniture for high profile private and corporate events, Melbourne Open, Formula 1 and The Presidents Cup <br/>
             - Leading small teams on site during the end of my tenure at Place Settings, having the solve complex issues quickly and to the satisfaction of the client <br/>
             - Maintaining a professional attitude while working discreetly and quickly in busy environments
@@ -79,6 +80,19 @@ const AboutMe = () => {
             <br/>
             - Working at and constructing stands at large UK trade shows - Autumn & Spring fair (NEC), Harrogate Book Fair & London Book Fair <br/>
             - Providing Assistance with building and restoration projects <br/>
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <ListContainer>
+          <ListTitle>
+            Sainsbury's Supermarket - Customer Service Assistant <br/>
+            (October 2011 to September 2013)
+          </ListTitle>
+          <ListParagraph>
+            <br/>
+            - Learnt valuable lessons about the world of work <br/>
+            - Developed financial skills, earning and saving money <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>

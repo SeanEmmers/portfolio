@@ -16,7 +16,7 @@ const Education = () => {
         <ListContainer>
           <ListTitle>Makers Academy <br/> (May 2021 - August 2021)</ListTitle>
           <ListParagraph>
-            A 16 week intense coding bootcamp in London<br/>
+            A 16 week intense coding bootcamp in London. The course focused on teaching students how to set themselves up to learn and develop alongside how to work with others inside an Agile work environment<br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
