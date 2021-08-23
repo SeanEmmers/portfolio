@@ -1,10 +1,10 @@
 import React from 'react';
-import { ListTitle } from './TimeLineStyles';
+import { ListTitle } from './AboutMeStyles';
 import { List, ListContainer, ListItem, ListParagraph } from '../Technologies/TechnologiesStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TimeLineData } from '../../constants/constants';
 
-const Timeline = () => {
+const AboutMe = () => {
 
   return (
     <Section id='about'>
@@ -89,4 +89,4 @@ const Timeline = () => {
   );
 };
 
-export default Timeline;
+export default AboutMe;
