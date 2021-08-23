@@ -35,7 +35,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - Started off as an Offsider. During my time at Place Settings I took on an increasing amount of resposibility, at the end I was the youngest Team Leader in the company. <br/>
+            - I joined as an Offsider. During my time at Place Settings I took on an increasing amount of resposibility, becoming the youngest Team Leader in the company. <br/>
             - Delivering designer hire furniture for high profile private and corporate events, Melbourne Open, Formula 1 and The Presidents Cup <br/>
             - Leading small teams on site, having to solve complex issues quickly and to the satisfaction of the client <br/>
             - Maintaining a professional attitude while working discreetly and quickly in busy environments
