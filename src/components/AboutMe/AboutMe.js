@@ -52,7 +52,7 @@ const AboutMe = () => {
             <br/>
             - I took on the responsibility to be left alone for over a week at a time as the only person on the property, using my initiative to find solutions to problems <br/>
             - Able to get along with people in a small area for a long period of time <br/>
-            - This work was an amazing opportunity to learn about myself and to have to privilege to live inside an Indiginous community in a remote area of Australia, it is an experience I will never forget
+            - This work was an amazing opportunity to learn about myself and to have the privilege to live inside an Indigenous community in a remote area of Australia, it is an experience I will never forget
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -64,7 +64,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - Managing the online website, creating product listing and sending out orders <br/>
+            - Managing the online website, creating product listings and sending out orders <br/>
             - IT support for the office <br/>
             - Using InDesign to create a weekly marketing email that would circulate to our entire customer base informing them of the new products that had arrived into the warehouse that week
           </ListParagraph>
@@ -91,7 +91,7 @@ const AboutMe = () => {
           </ListTitle>
           <ListParagraph>
             <br/>
-            - Learnt valuable lessons about the world of work <br/>
+            - Learnt valuable lessons about the world of work, including developing strong customer service skills <br/>
             - Developed financial skills, earning and saving money <br/>
           </ListParagraph>
         </ListContainer>
