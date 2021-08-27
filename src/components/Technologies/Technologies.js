@@ -18,8 +18,8 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             React.js <br/>
-            Ruby On Rails <br/>
             Bootstrap<br/>
+            Capybara<br/>
             Bulma
           </ListParagraph>
         </ListContainer>
@@ -29,12 +29,12 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
+            Ruby On Rails <br/>
             PostgreSQL<br/>
             Sinatra <br/>
             RSpec Testing Framework<br/>
             Jasmine Testing Framework <br/>
-            React Router<br/>
-            Capybara<br/>
+            React Router
           </ListParagraph>
         </ListContainer>
       </ListItem>
