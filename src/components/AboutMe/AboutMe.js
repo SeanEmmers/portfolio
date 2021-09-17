@@ -10,7 +10,7 @@ const AboutMe = () => {
       <SectionDivider /><br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        An aspiring Software Developer and former student of the Makers Academy in London. Here you can find key infomation about my skills and experiences
+        An aspiring Software Developer and former student of the Makers Academy in London. Here you can find key information about my skills and experiences
       </SectionText>
       <SectionTitle>Work Experience</SectionTitle>
       <List>
